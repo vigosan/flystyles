@@ -328,7 +328,7 @@ pre code {
 // Example view
 
 .exampleView .GridRow > .GridColumn,
-.exampleView .GridRow > [class^='GridColumn'] {
+.exampleView .GridRow > [class^="GridColumn"] {
   min-height: 4rem;
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
@@ -340,7 +340,7 @@ pre code {
 }
 
 .exampleView .FlexGridRow > .FlexGridColumn,
-.exampleView .FlexGridRow > [class^='FlexGridColumn'] {
+.exampleView .FlexGridRow > [class^="FlexGridColumn"] {
   min-height: 4rem;
   padding: 0.75rem;
   font-size: 14px;
